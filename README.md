@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kunal Sen</h1>
-<h3 align="center">A developer who is trying to split "im" from the impossible!</h3>
+<h3 align="center">Nothing for now</h3>
 
 - 📫 How to reach me **ksen959595@gmail.com**
 
